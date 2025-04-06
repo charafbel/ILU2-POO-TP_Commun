@@ -58,6 +58,9 @@ public class DialogReservation {
 
 
     public void handleTableSelectedEvent(String numTable) {
+        if (numTable == null){
+            return;
+        }
         char Table = numTable.charAt(6);
         int selectedTable = Table - '0';
         this.selectTable = selectedTable;
