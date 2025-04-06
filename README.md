@@ -1,11 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mPnIX3dp)
 # UPS - Licence Info - ILU2
 
-### NOM :
-### Prénom :
-### Groupe de TP :
+### NOM : BELGHITI JOUHRI
+### Prénom : CHARAF EDINE
+### Groupe de TP : A12
 - [ ] A11
-- [ ] A12
+- [x] A12
 - [ ] B11
 - [ ] B12
 
